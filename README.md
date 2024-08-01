@@ -1,16 +1,11 @@
 - 👋 Hi, I’m @KartikG2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Wed Development, AIML, Web Browsing etc.
+- 🌱 I’m currently learning CSE @ Dr SMCE.
 
 <!---
 KartikG2/KartikG2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Kartik+Gangavati!;" />
@@ -19,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Full Stack Developer(MERN)</h3>
 
 <br/>
- 
+
+ <h1 align="center">Reach me out through :</h1>
 <div align="center"> 
   <a href="mailto:kartikgangavati2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
