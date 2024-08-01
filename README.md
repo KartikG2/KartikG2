@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Kartik+Gangavati!;" />
 </h1>
 
-<h3 align="center">Full Stack Developer(MERN)</h3>
+<h2 align="center">Full Stack Developer(MERN)</h2>
 
 <br/>
 
- <h1 align="center">Reach me out through :</h1>
+ <h4 align="center">Reach me out through :</h4>
 <div align="center"> 
   <a href="mailto:kartikgangavati2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
