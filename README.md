@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @KartikG2<br>- 💻 Working on Hacktoberfest 2024<br>- 👀 I’m a Web Developer<br>- 🌱 I have keen interest in AIML<br>- 🌱Currently pursuing B.E @ Dr SMCE.
+- 👋 Hi, I’m @KartikG2<br>- 💻 Working on full stack project <br>- 👀 I’m a Web Developer<br>- 🌱 I have keen interest in AIML and Web-3<br>- 🌱Currently pursuing B.E @ Dr SMCE.
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Kartik+Gangavati!;" />
