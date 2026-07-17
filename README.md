@@ -38,7 +38,7 @@
 const kartik = {
   role       : ["Full Stack Developer", "Android Engineer", "AI Builder"],
   internships: ["Tekavach — React · Node.js", "MindMatrixEd — Kotlin · Jetpack Compose"],
-  education  : "B.E. CS @ SSSSMCE, Bengaluru  ·  CGPA 8.37  ·  Graduating Sep 2026",
+  education  : "B.E. CS @ Dr.SMCE, Bengaluru  ·  CGPA 8.41  ·  Graduated on Jun 2026",
   building   : "LocalConnect — AI on-demand services marketplace (Claude API + Kotlin)",
   interests  : ["Generative AI", "Real-time Systems", "WebRTC", "Clean Architecture"],
   side       : "Petaluxe7 — Handmade bouquets & custom gifts 🌸",
@@ -162,32 +162,6 @@ const kartik = {
 
 <br/>
 
----
-
-<br/>
-
-## 🪶 &nbsp; GSSoC '24 Badges
-
-<br/>
-
-<div align="center">
-<a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="72px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="72px"/>
-</a>
-</div>
-
-<br/>
 
 ---
 
