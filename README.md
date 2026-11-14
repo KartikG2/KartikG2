@@ -41,7 +41,7 @@ const kartik = {
   education  : "B.E. CS @ Dr.SMCE, Bengaluru  ·  CGPA 8.41  ·  Graduated on Jun 2026",
   building   : "LocalConnect — AI on-demand services marketplace (Claude API + Kotlin)",
   interests  : ["Generative AI", "Real-time Systems", "WebRTC", "Clean Architecture"],
-  side       : "Petaluxe7 — Handmade bouquets & custom gifts 🌸",
+  side       : "Genz4u — Creative studio 🌸",
   openTo     : ["Collabs", "SDE roles", "AI product discussions"],
 };
 ```
